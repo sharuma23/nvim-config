@@ -29,5 +29,6 @@ require("nvim-tree").setup({
   },
 })
 
+-- Toggles nvim tree
 vim.keymap.set("n", "<leader>pv", vim.cmd.NvimTreeToggle )
 --vim.keymap.set("n", "<leader>pvf", vim.cmd.NvimTreeFocus)
