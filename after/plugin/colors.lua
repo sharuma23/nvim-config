@@ -4,3 +4,4 @@ vim.cmd.colorscheme(color)
 
 -- nvim-tree config
 
+
